@@ -1,10 +1,17 @@
 ## Hi there 👋
+
 👋 Hey, I’m Rajkumar.
-🚀SDE backedn @lensup technologies
+
+🚀 SDE Backend @ Lensup Technologies
+
 🚀 Backend Developer passionate about building efficient and scalable systems.
+
 🎯 Focused on creating reliable APIs, databases, and secure server-side architectures.
+
 🛠️ Currently deep-diving into Node.js, Express, and MongoDB.
+
 📬 Feel free to connect or reach out: rajkumarkarn002@gmail.com
+
 
 🔗 Check out my portfolio: rajportfolio-hazel.vercel.app
 
