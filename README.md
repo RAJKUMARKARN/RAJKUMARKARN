@@ -2,11 +2,11 @@
 
 👋 Hey, I’m Rajkumar.
 
-🚀 SDE Backend @ Lensup Technologies
+🚀 SDE @CWY
 
-🚀 Backend Developer passionate about building efficient and scalable systems.
+🚀 Full Stack Developer || BlockChain (Solana).
 
-🎯 Focused on creating reliable APIs, databases, and secure server-side architectures.
+🎯 Focused on creating reliable APIs, databases, and secure server-side architectures+ Web 3.
 
 🛠️ Currently deep-diving into Node.js, Express, and MongoDB.
 
