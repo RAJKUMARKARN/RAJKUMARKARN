@@ -27,7 +27,7 @@
 ### 🎯 What I'm Up To
 * 🏢 Currently working as an **SDE at CWY**.
 * 🌐 Focused on building reliable APIs, scalable databases, secure server-side architectures, and **Web3** integrations.
-* 📱 Developing full-stack platforms and mobile applications using **React Native**.
+* 📱 Developing full-stack platforms and mobile applications.
 * 💬 Ask me about **MERN Stack, Blockchain, or UI Design**.
 
 ---
@@ -35,9 +35,33 @@
 ### ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,solana,git,github,flutter,kubernetes,tailwind,vue&perline=7&theme=dark" alt="Tech Stack" />
-  </a>
+  <h4>Languages & Frameworks</h4>
+  <img src="./assets/javascript.gif" width="50" height="50" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/react.gif" width="50" height="50" alt="React" title="React" />
+  <img src="./assets/react-native.gif" width="50" height="50" alt="React Native" title="React Native" />
+  <img src="./assets/vue.gif" width="50" height="50" alt="Vue" title="Vue 2" />
+  <img src="./assets/nodejs.gif" width="50" height="50" alt="Node.js" title="Node.js" />
+  <img src="./assets/express.gif" width="50" height="50" alt="Express" title="Express" />
+  <img src="./assets/java.gif" width="50" height="50" alt="Java" title="Java" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>Databases & Blockchain</h4>
+  <img src="./assets/mongodb.gif" width="50" height="50" alt="MongoDB" title="MongoDB" />
+  <img src="./assets/solana.gif" width="50" height="50" alt="Solana" title="Solana" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>Tools, Platforms & Styling</h4>
+  <img src="./assets/git.gif" width="50" height="50" alt="Git" title="Git" />
+  <img src="./assets/github.gif" width="50" height="50" alt="GitHub" title="GitHub" />
+  <img src="./assets/kubernetes.gif" width="50" height="50" alt="Kubernetes" title="Kubernetes" />
+  <img src="./assets/flutter.gif" width="50" height="50" alt="Flutter" title="Flutter" />
+  <img src="./assets/tailwind.gif" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
 ---
