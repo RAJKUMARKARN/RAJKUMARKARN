@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="31%" alt="Hacker Developer" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="31%" alt="Pixel Developer" />
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/laptop.gif" width="31%" alt="Dual Monitor Developer" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Hacker Developer" />
+</div>
 
 <br/>
 
@@ -25,10 +23,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="150" alt="Earth separator" />
-</div>
 
 ### 🎯 What I'm Up To
 * 🏢 Currently working as an **SDE at CWY**.
