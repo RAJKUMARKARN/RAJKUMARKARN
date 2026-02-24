@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Rajkumar;💻+Software+Development+Engineer+@+CWY;🚀+Full+Stack+Developer+%7C%7C+Solana+Web3;🩸+Building+'Life+Flows';🛠️+Deep-diving+into+Node.js,+Express+%26+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Rajkumar;💻+Software+Development+Engineer+@+CWY;🚀+Full+Stack+Developer+%7C%7C+Solana+Web3;🩸+Building+'Life+Flows';🛠️+Deep-diving+into+Node.js,+Express+%26+MongoDB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,13 +37,9 @@
 ### ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <img src="./assets/js-animated.gif" width="50" alt="JavaScript" />
-  <img src="./assets/react-animated.gif" width="50" alt="React" />
-  <img src="./assets/node-animated.gif" width="50" alt="Node.js" />
-  <img src="./assets/express-animated.gif" width="50" alt="Express" />
-  <img src="./assets/mongo-animated.gif" width="50" alt="MongoDB" />
-  <img src="./assets/solana-animated.gif" width="50" alt="Solana" />
-  <img src="./assets/java-animated.gif" width="50" alt="Java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,solana,git,github,flutter,kubernetes,tailwind,vue&perline=7&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
 <div align="center">
