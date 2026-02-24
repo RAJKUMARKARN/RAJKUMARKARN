@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518acaf0-da52-478a-a8f8-bba917ce5401.gif" width="32%" alt="Pixel City" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="32%" alt="Animated Developer" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-4700fc26-dca4-4674-b529-f5383dd1c070.gif" width="32%" alt="Anime Developer" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="32%" alt="Developer 1" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="32%" alt="Developer 2" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/laptop.gif" width="32%" alt="Developer 3" />
 </p>
 
 <br/>
@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Code separator" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="150" alt="Earth separator" />
 </div>
 
 ### 🎯 What I'm Up To
