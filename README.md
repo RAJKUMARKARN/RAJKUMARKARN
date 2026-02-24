@@ -1,7 +1,12 @@
-<h1 align="center">Hi there, I'm Rajkumar 👋</h1>
-<h3 align="center">Software Development Engineer @ CWY | Full Stack & Solana Blockchain Developer</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150" alt="Animated Developer" />
 
-<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Rajkumar;💻+Software+Development+Engineer+@+CWY;🚀+Full+Stack+Developer+%7C%7C+Solana+Web3;🩸+Currently+building+'Life+Flows';🛠️+Deep-diving+into+Node.js,+Express+%26+MongoDB" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://rajportfolio-hazel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -11,49 +16,52 @@
   <a href="mailto:rajkumarkarn002@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Code separator" />
+</div>
 
+### 🎯 What I'm Up To
 * 🏢 Currently working as an **SDE at CWY**.
 * 🌐 Focused on building reliable APIs, scalable databases, secure server-side architectures, and **Web3** integrations.
-* 🌱 Deep-diving into the MERN stack (**Node.js, Express, MongoDB**) and the **Solana** ecosystem.
-* 💬 Ask me about **Full Stack Development, Blockchain, and API Design**.
-* 📫 Reach out to me: **[rajkumarkarn002@gmail.com](mailto:rajkumarkarn002@gmail.com)**
+* 📱 Developing full-stack platforms and mobile applications using **React Native**.
+* 💬 Ask me about **MERN Stack, Blockchain, or UI Design**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-**Databases & Blockchain**
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter_Flow-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,solana,git,github,flutter,kubernetes,tailwind,vue&perline=7&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats & Activity
 
-<p align="center">
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 My Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
