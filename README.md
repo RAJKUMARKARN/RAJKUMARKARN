@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="220" alt="Animated Developer 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212253272-b7e196eb-f6cb-4034-bcc2-61d020d585d8.gif" width="220" alt="Animated Developer 1" />
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="Animated Developer 2" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="220" alt="Animated Developer 3" />
-  
-  <br/>
-  <br/>
+</div>
 
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Rajkumar;💻+Software+Development+Engineer+@+CWY;🚀+Full+Stack+Developer+%7C%7C+Solana+Web3;🩸+Building+'Life+Flows';🛠️+Deep-diving+into+Node.js,+Express+%26+MongoDB" alt="Typing SVG" />
   </a>
@@ -51,11 +52,11 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PUT_YOUR_USERNAME_HERE&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_ACTUAL_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PUT_YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
