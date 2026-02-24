@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150" alt="Animated Developer" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" alt="Animated Developer" />
+  
+  <br/>
+  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Rajkumar;💻+Software+Development+Engineer+@+CWY;🚀+Full+Stack+Developer+%7C%7C+Solana+Web3;🩸+Building+'Life+Flows';🛠️+Deep-diving+into+Node.js,+Express+%26+MongoDB" alt="Typing SVG" />
