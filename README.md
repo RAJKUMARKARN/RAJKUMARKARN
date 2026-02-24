@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212253272-b7e196eb-f6cb-4034-bcc2-61d020d585d8.gif" width="220" alt="Animated Developer 1" />
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="Animated Developer 2" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="220" alt="Animated Developer 3" />
+  <img src="https://user-images.githubusercontent.com/74038190/212253272-b7e196eb-f6cb-4034-bcc2-61d020d585d8.gif" width="32%" alt="Animated Developer 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="32%" alt="Animated Developer 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="32%" alt="Animated Developer 3" />
 </div>
 
 <br/>
