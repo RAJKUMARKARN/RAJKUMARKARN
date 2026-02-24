@@ -45,16 +45,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Red separator" />
 </div>
-
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RAJKUMARKARN&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJKUMARKARN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJKUMARKARN&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
