@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212253272-b7e196eb-f6cb-4034-bcc2-61d020d585d8.gif" width="32%" alt="Animated Developer 1" />
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="32%" alt="Animated Developer 2" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="32%" alt="Animated Developer 3" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518acaf0-da52-478a-a8f8-bba917ce5401.gif" width="32%" alt="Pixel City" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4b98-b63f-ff4d1b71d6f5.gif" width="32%" alt="Animated Developer" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-4700fc26-dca4-4674-b529-f5383dd1c070.gif" width="32%" alt="Anime Developer" />
+</p>
 
 <br/>
 
