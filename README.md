@@ -43,24 +43,26 @@
 * ⚡ Working with **React, React Native, Node.js & MongoDB**
 * 📱 Developing production mobile applications with **React Native & Expo**
 * 🌐 Building scalable **REST APIs and backend systems**
+* 🔄 Working with **WebSockets, WebRTC & real-time communication**
 * ⛓️ Exploring **Solana & Web3 development**
-* ☁️ Interested in **Cloud, DevOps & distributed systems**
+* ☁️ Interested in **Cloud Engineering & DevOps**
 * 🚀 Always learning, building and experimenting
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Software Development Engineer** passionate about building practical, scalable software.
+I'm a **Software Development Engineer** passionate about building practical and scalable software.
 
-My current work involves **full-stack development, mobile applications, backend APIs, real-time communication and cloud-oriented systems**.
+My work spans across **full-stack development, mobile applications, backend engineering, real-time communication and cloud-oriented systems**.
 
-I enjoy working across the stack — from designing interfaces and mobile experiences to building APIs, databases and deployment pipelines.
+I enjoy working across the stack — from creating user interfaces and mobile experiences to designing APIs, databases and deployment infrastructure.
 
 ```javascript
 const raj = {
     role: "Software Development Engineer",
     company: "CWY",
+
     focus: [
         "Full Stack Development",
         "Mobile Development",
@@ -68,12 +70,14 @@ const raj = {
         "Real-Time Communication",
         "Web3"
     ],
+
     currentlyLearning: [
         "Cloud Engineering",
         "DevOps",
         "System Design",
         "Solana"
     ],
+
     mindset: "Build → Break → Learn → Improve 🚀"
 };
 ```
@@ -122,65 +126,24 @@ const raj = {
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Technical Skills
 
 <div align="center">
 
-| Area               | Technologies                                         |
-| ------------------ | ---------------------------------------------------- |
-| **Frontend**       | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
-| **Backend**        | Node.js, Express.js, Flask                           |
-| **Databases**      | MongoDB, PostgreSQL                                  |
-| **Mobile**         | React Native, Expo, Flutter                          |
-| **Real-Time**      | WebSockets, WebRTC, Twilio                           |
-| **Authentication** | JWT, OTP, Azure MSAL                                 |
-| **DevOps**         | Docker, Kubernetes, GitHub, Vercel                   |
-| **Web3**           | Solana                                               |
-| **Design**         | Figma, UI/UX                                         |
+| Area               | Technologies                                       |
+| ------------------ | -------------------------------------------------- |
+| **Languages**      | JavaScript, TypeScript, Java, Python, C++          |
+| **Frontend**       | React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
+| **Backend**        | Node.js, Express.js, Flask                         |
+| **Databases**      | MongoDB, PostgreSQL                                |
+| **Mobile**         | React Native, Expo, Flutter                        |
+| **Real-Time**      | WebSockets, WebRTC, Twilio                         |
+| **Authentication** | JWT, OTP, Azure MSAL                               |
+| **DevOps**         | Docker, Kubernetes, Git, GitHub, Vercel, Linux     |
+| **Web3**           | Solana                                             |
+| **Design**         | Figma, UI/UX                                       |
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 🩸 Life Flows — Blood Donation Platform
-
-A full-stack blood donation platform designed to connect donors with people who need blood.
-
-**Tech Stack**
-
-`MERN` `React` `Node.js` `Express` `MongoDB`
-
----
-
-### 📚 Pustak Baazar
-
-A MERN-based e-commerce platform for buying and managing books.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
----
-
-### 📱 CWY Mobile App
-
-A production mobile application built for the CWY platform.
-
-Features include:
-
-* 💬 Real-time chat
-* 👥 Communities
-* 📞 Real-time communication
-* 🔐 Authentication
-* 💳 Payments
-* 🔔 Push notifications
-* 📱 Cross-platform mobile experience
-
-**Tech Stack**
-
-`React Native` `Expo` `Node.js` `MongoDB` `Twilio` `WebRTC`
 
 ---
 
@@ -230,19 +193,21 @@ Features include:
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
+
+<div align="center">
 
 ```text
-[████████████████████████████████████████] Full Stack Development
-
-[██████████████████████████████░░░░░░░░░░] Cloud Engineering
-
-[████████████████████████░░░░░░░░░░░░░░░░] DevOps
-
-[██████████████████░░░░░░░░░░░░░░░░░░░░░░] System Design
-
-[████████████████░░░░░░░░░░░░░░░░░░░░░░░░] Solana / Web3
+🚀 Full Stack Development
+📱 React Native & Mobile Engineering
+⚡ Node.js & Backend Engineering
+🔄 WebRTC & Real-Time Communication
+☁️ Cloud Engineering & DevOps
+⛓️ Solana & Web3
+🏗️ System Design
 ```
+
+</div>
 
 ---
 
@@ -270,8 +235,10 @@ I'm always interested in discussing:
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
-
 <img src="https://komarev.com/ghpvc/?username=RAJKUMARKARN&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
